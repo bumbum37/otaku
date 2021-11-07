@@ -1,0 +1,2 @@
+# otaku
+Scraping web otakudesu
